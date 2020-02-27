@@ -109,3 +109,4 @@ home_bgimage: /images/background.png
 #2.menu_about:在菜单栏新开一个菜单"关于", 请确保菜单配置menu，添加了about项(打开上面menu,about的注释)
 about_type: home_about
     
+theme: jekyll-theme-midnight
